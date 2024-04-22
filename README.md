@@ -1,1 +1,1 @@
-# Automatic-License-Plate-Detection-Extract-text-application
+The goal is to develop a web platform that connects car owners with people who need temporary access to a vehicle. Users should be able to browse available cars, make reservations, unlock vehicles, and complete payments. The following process is how I achieved my goals in creating the project. Planning & Design, Development, Deployment & Testing and Additional Features. The End result is a project that exercises a wide range from JavaScript, PHP, MYSQL, AJAX, JSON and more to complete and finish this product.
